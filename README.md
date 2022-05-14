@@ -1,4 +1,4 @@
-# Medical-office
+# Reporting system
 This project is the production of a reporting web application. With this application users can visualize surveys and media and even read reports but only admin can add them. When adding a survey, they must answer a series of 64 questions and they can add comments or a media (image, audio, video, document) if needed. The platform would then display diagrams of the statistics of the company in each field.
 to build follow steps:
 Download Xampp composer https://www.apachefriends.org/fr/download.html
